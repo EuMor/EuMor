@@ -154,9 +154,14 @@ Now I bring that same clarity to my architecture, my code, and my commits.
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 ### 📈 Contribution Graph
-
+<!--
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=EuMor&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+-->
+
+<p align="center">
+  <img src="https://yourinsights.vercel.app/api/insight?username=EuMor&theme=tokyonight&graph=true" alt="GitHub Insights" />
 </p>
 
 ---
